@@ -1,0 +1,16 @@
+{
+  "Engines": [
+    {
+      "Shortcut": "g",
+      "Label": "Google",
+      "QueryUrl": "https://www.google.com/search?q=%s",
+      "IsEnabled": true
+    },
+    {
+      "Shortcut": "gh",
+      "Label": "GitHub",
+      "QueryUrl": "https://github.com/search?q=%s",
+      "IsEnabled": true
+    }
+  ]
+}

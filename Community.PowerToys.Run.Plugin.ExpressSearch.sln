@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Community.PowerToys.Run.Plugin.ExpressSearch", "Community.PowerToys.Run.Plugin.ExpressSearch.csproj", "{F44B8F7E-422C-E255-93AB-AC90FACB3ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44B8F7E-422C-E255-93AB-AC90FACB3ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44B8F7E-422C-E255-93AB-AC90FACB3ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44B8F7E-422C-E255-93AB-AC90FACB3ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44B8F7E-422C-E255-93AB-AC90FACB3ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA82D74F-4B13-40A4-A9C5-FA0D58A696E7}
+	EndGlobalSection
+EndGlobal

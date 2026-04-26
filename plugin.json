@@ -1,0 +1,14 @@
+{
+  "ID": "919dc50a-20c7-4ccb-80d3-d37a30e1cd7c",
+  "ActionKeyword": "s",
+  "Disabled": false,
+  "IsGlobal": false,
+  "Name": "ExpressSearch",
+  "Author": "habutaso",
+  "Version": "0.1.0",
+  "Language": "csharp",
+  "Website": "https://github.com/habutaso/ExpressSearch_PowerToys",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.ExpressSearch.dll",
+  "IcoPathDark": "Images\\icon.dark.png",
+  "IcoPathLight": "Images\\icon.light.png"
+}
